@@ -7,5 +7,5 @@ Installation scripts to setup remote (usually) hosts to facilitate environment.
 To get started please run:
 
 ```bash
-sh -c "`curl -fsSL https://cdn.rawgit.com/sevenmaxis/lightweight-dotfiles/master/install.sh`"
+sh -c "`curl -fsSL https://cdn.jsdelivr.net/gh/sevenmaxis/lightweight-dotfiles/install.sh`"
 ```
